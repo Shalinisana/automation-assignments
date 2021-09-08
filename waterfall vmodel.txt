@@ -1,0 +1,51 @@
+Waterfall model:
+
+	Waterfall model is a sequential model for developing small size or simple projects.
+       Activities that are carried out one after another without going back is called waterfall model
+Steps that are involved in waterfall are
+	1.business Requirements
+	2.system requirements
+	3.design
+	4.coding
+	5.testing 
+	6.delivery 
+	maintance
+Advantages:
+	1.only when the requirements are very clear
+	As requirements are clear chances of making mistakes are less
+   	2.Documentation is done at every phase
+	3.Testing will be done after development.
+Disadvantages:
+	1.defects can cause problems to entire project 
+	2.difficult to go back and do changes
+	3.no ambiguous requirements
+	4.project should be short
+	5.should go to another version if any problems or changes should be made.
+
+V model:
+
+	Suitable for small projects where requirements are complex.
+	verification and validation is performed in V model which is in v shape
+	to find defects at early stage testing can be done right from the requirements
+Steps involved in V model are
+  verification phase
+	1.requirements
+	2.system requirements
+	3.high level design
+	4.low level design
+	5.code
+  validation phase
+	6.unit testing
+	7.integration testing
+	8.system testing
+	9.acceptance testing
+Advantages:
+	1.simple and easy
+	2.test plan should be created before development
+	3.before the coding testing activites are done
+	4.defects are found at early stage	
+	
+Disadvantages:
+	1.if any changes happen both test documents and requirement documents should be changed.
+	2.difficult to see problems at early stages
+	

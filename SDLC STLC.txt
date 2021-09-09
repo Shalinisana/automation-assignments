@@ -1,0 +1,26 @@
+  Software development life cycle 		|	    Software testing life cycle
+						|
+1.Performed during the software development 	|	1.Performed during the software testing process.
+process.					|
+						|
+2.6 phases:					|	2.5 phases:
+	-requirements				|		-test planning
+	-planning				|		-test analysis
+	-designing				|		-test design
+	-coding					|		-test execution
+	-testing				|		-test closure
+	-delivery and maintain 			|
+						|
+3.Developers will do SDLC			|	3.Testers will do STLC
+						|
+4.Goal of SDLC is to complete successful 	|	4.Goal of STLC is to complete successful testing 
+development of software.			|	of software.
+						|
+5.Code is developed, and actual work takes	|	5.Testing team prepares the test environment and 
+place as per the design documents  		|	executes test cases.
+						|
+6.In SDLC the business analyst gathers the 	|	6.In STLC, the QA team analyze requirement documents 
+requirements and create Development Plan	|	like functional and non-functional documents and create 
+						|	System Test Plan.
+						|
+7.A good quality software product		|	7.A bug free software

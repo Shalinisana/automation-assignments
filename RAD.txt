@@ -1,0 +1,35 @@
+Agile methodology:
+
+ - It is used in big projects, so that project will be divided into modules and 
+each module is divided into sprints and by using sprints project is implemented.
+
+ -In agile we dont need too much documentation which is time consuming
+ The process of agile methodology can be done quickly.
+
+ The precursor for agile model is RAD (rapid application development model)
+
+-It is prototyping and iterative model with no planning.
+-RAD means building continuous evaluation requirements
+-RAD model includes agile methodology and spiral model.
+-RAD model is used only when project is divided into modules
+
+ Phases of RAD are:
+
+1.business modelling
+2.data modelling
+3.process modelling
+4.application modelling
+5.testing
+
+Advantages:
+ 1.we can do changes in requirements by clients
+ 2.Quick process
+ 3.reviews by client in initial stage
+ 4.short time we can complete the project
+ 5.possibility of lesser defects
+
+DisAdavantages:
+ 1.business requirements should be identify
+ 2.requires high skilled members in team
+ 3.user involvement throughout the project
+ 4.cannot be used for smaller projects
